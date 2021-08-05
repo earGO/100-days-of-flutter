@@ -1,16 +1,11 @@
 # hundred_days_css
 
-A new Flutter project.
+It is a https://100dayscss.com challenge, but with Flutter!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The app is a simple PageView with navigation between the challenges with swipes to the right and to the left. 
 
-A few resources to get you started if this is your first Flutter project:
+I have started from a Day 1 (with whatever was there at the time I've started this), and committed to complete all 100 of those.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I am doing that on some evenings though, so it will take me a while to pick up some speed with Flutter, but it was REALLY fun when I've done these with CSS. 
