@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:hundred_days_css/challenges/day_one.dart';
+import 'package:hundred_days_css/challenges/cupertino/001_day_one/day_one.dart';
 import 'package:hundred_days_css/challenges/day_two.dart';
 
 class HomeScreen extends StatefulWidget {
